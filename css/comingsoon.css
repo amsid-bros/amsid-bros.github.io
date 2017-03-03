@@ -1,0 +1,17 @@
+.bg {
+    background: #004a99;
+}
+
+.bg-1 {
+    background: #f2f2f2;
+    color: #004a99;
+    font-family: Domine;
+}
+
+.logo {
+    padding-top: 20px;
+}
+
+.twitter {
+    margin-bottom: 10px;
+}
